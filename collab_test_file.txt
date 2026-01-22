@@ -1,0 +1,14 @@
+Test TXT File
+
+This is a plain text file generated for testing.
+
+Scenarios covered:
+1. Permission denied shows loading status in Collab review.
+2. Permission set back to Allow.
+3. Server restarted.
+4. Review opened
+4. File content displays correctly in Collab review.
+
+End of file.
+
+Testing123456
