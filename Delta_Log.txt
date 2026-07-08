@@ -1,0 +1,3 @@
+This is sample text content for file 4: Delta_Log.
+Created for testing purposes.
+Each file has unique content and filename.
