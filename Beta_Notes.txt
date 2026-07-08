@@ -1,0 +1,3 @@
+This is sample text content for file 2: Beta_Notes.
+Created for testing purposes.
+Each file has unique content and filename.
